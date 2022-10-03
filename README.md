@@ -22,9 +22,12 @@ Versões:
 - Laravel 8.75
 - PHP 7.4.26 
 
-- Código encontra-se em "routes\api.php";
+Configuração:
+- Criar e configurar arquivo .env conforme .env.example
+- composer install
 
+Código encontra-se em "routes\api.php";
 
 Observações/dificuldades:
 
-- Uma certa demora pra descobrir como funciona o SQLite e recuperar o arquivo db.sq3, mas deu certo no final pra visualizar no dbeaver também
+- Uma certa demora pra descobrir como funciona o SQLite e recuperar o arquivo db.sq3 com Laravel, mas deu certo no final pra visualizar no dbeaver também
